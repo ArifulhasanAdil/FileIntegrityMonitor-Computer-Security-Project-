@@ -161,3 +161,25 @@ FileIntegrityMonitor/
 ### Monitoring Process
 
 ![Monitoring Process](monitorprocess.jpeg)
+
+## ▶️ How to Run the Project
+
+### Requirements
+
+- Python 3.x
+- Tkinter
+- Watchdog
+
+### Installation
+
+Install the required dependency:
+
+```bash
+pip install watchdog
+
+## ▶️ How to Run the GUI
+
+After installing the required dependencies, run:
+
+```bash
+python gui.py               <- **************** (After putting this command on terminal it will show the interface)
