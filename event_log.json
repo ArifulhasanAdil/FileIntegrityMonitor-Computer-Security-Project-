@@ -1,0 +1,422 @@
+[
+    {
+        "timestamp": "2026-08-01 02:20:22",
+        "event_type": "BASELINE_CREATED",
+        "message": "Baseline created",
+        "previous_hash": "GENESIS",
+        "event_hash": "afad149e4e23bfeabade078ba44d18b9659cb7845bdf59925a25f77b39a42c63"
+    },
+    {
+        "timestamp": "2026-08-01 02:20:26",
+        "event_type": "MONITORING_STARTED",
+        "message": "Monitoring started",
+        "previous_hash": "afad149e4e23bfeabade078ba44d18b9659cb7845bdf59925a25f77b39a42c63",
+        "event_hash": "1370690704f282df7d91141eaad0e8128525dff8e9bf647d0e0db12da8d6fc05"
+    },
+    {
+        "timestamp": "2026-08-01 02:21:02",
+        "event_type": "MODIFIED",
+        "message": "MODIFIED: config.sys",
+        "previous_hash": "1370690704f282df7d91141eaad0e8128525dff8e9bf647d0e0db12da8d6fc05",
+        "event_hash": "2207e80ac8e1644c13ac93ab1e0d7b2121d3c94de6774404cf9c3bb69b46f8e9"
+    },
+    {
+        "timestamp": "2026-08-01 02:21:45",
+        "event_type": "MONITORING_STOPPED",
+        "message": "Monitoring stopped",
+        "previous_hash": "2207e80ac8e1644c13ac93ab1e0d7b2121d3c94de6774404cf9c3bb69b46f8e9",
+        "event_hash": "388bfaa51f194ebec6a3bb0ed9af11f86239077b249c522c8b60edafa61e02eb"
+    },
+    {
+        "timestamp": "2026-08-01 02:28:32",
+        "event_type": "MODIFIED",
+        "message": "MODIFIED: config.sys",
+        "previous_hash": "388bfaa51f194ebec6a3bb0ed9af11f86239077b249c522c8b60edafa61e02eb",
+        "event_hash": "efbe7029edd3d64b327c41b140fedfe17cadb18d247ad7232d98a27a3f4b1c37"
+    },
+    {
+        "timestamp": "2026-08-01 02:29:44",
+        "event_type": "MODIFIED",
+        "message": "MODIFIED: config.sys",
+        "previous_hash": "efbe7029edd3d64b327c41b140fedfe17cadb18d247ad7232d98a27a3f4b1c37",
+        "event_hash": "78d21fa011752af3f712cdeb6da9d395656e1a73f99d6ca56ff2de19c698e8e1"
+    },
+    {
+        "timestamp": "2026-08-01 02:29:54",
+        "event_type": "BASELINE_CREATED",
+        "message": "Baseline created",
+        "previous_hash": "78d21fa011752af3f712cdeb6da9d395656e1a73f99d6ca56ff2de19c698e8e1",
+        "event_hash": "41054d86d2c74bf713761fd251433e9da5298a5874fd2b3399a01339522f1bae"
+    },
+    {
+        "timestamp": "2026-08-01 02:30:01",
+        "event_type": "MONITORING_STARTED",
+        "message": "Monitoring started",
+        "previous_hash": "41054d86d2c74bf713761fd251433e9da5298a5874fd2b3399a01339522f1bae",
+        "event_hash": "a5d33b10b148f0981e41e78e3ad737ae3b8f6c0932793c960a5114de129368da"
+    },
+    {
+        "timestamp": "2026-08-01 02:36:20",
+        "event_type": "BASELINE_CREATED",
+        "message": "Baseline created",
+        "previous_hash": "a5d33b10b148f0981e41e78e3ad737ae3b8f6c0932793c960a5114de129368da",
+        "event_hash": "495943e1ebe612f9598b256a2e52ce95b90d7b8879ac9dd88b3ebf7f8e039604"
+    },
+    {
+        "timestamp": "2026-08-01 02:36:25",
+        "event_type": "MONITORING_STARTED",
+        "message": "Monitoring started",
+        "previous_hash": "495943e1ebe612f9598b256a2e52ce95b90d7b8879ac9dd88b3ebf7f8e039604",
+        "event_hash": "01b045232cff921861a0df232994068fb2e5cf4cde9ce5feed513bfc00356b8d"
+    },
+    {
+        "timestamp": "2026-08-01 02:36:43",
+        "event_type": "MODIFIED",
+        "message": "MODIFIED: config.sys",
+        "previous_hash": "01b045232cff921861a0df232994068fb2e5cf4cde9ce5feed513bfc00356b8d",
+        "event_hash": "0cd7bc8b138bc22c8cc177779c82310e2c1cdeeb00cc54186a91c8b13ae4a5a3"
+    },
+    {
+        "timestamp": "2026-08-01 02:52:40",
+        "event_type": "MONITORING_STOPPED",
+        "message": "Monitoring stopped",
+        "previous_hash": "0cd7bc8b138bc22c8cc177779c82310e2c1cdeeb00cc54186a91c8b13ae4a5a3",
+        "event_hash": "b769554543a7701df0f0d12de8ea02e056f18cb525fc518a835c25a57aa19ec5"
+    },
+    {
+        "timestamp": "2026-08-01 03:02:25",
+        "event_type": "MONITORING_STOPPED",
+        "message": "Monitoring stopped",
+        "previous_hash": "b769554543a7701df0f0d12de8ea02e056f18cb525fc518a835c25a57aa19ec5",
+        "event_hash": "ec9c5456ee6aaa7284b215e2b1d2dd6f7b9b36224979be38b3e92404c21d61d0"
+    },
+    {
+        "timestamp": "2026-08-01 10:11:40",
+        "event_type": "MODIFIED",
+        "message": "MODIFIED: config.sys",
+        "previous_hash": "ec9c5456ee6aaa7284b215e2b1d2dd6f7b9b36224979be38b3e92404c21d61d0",
+        "event_hash": "0b42bf7c72fda965a43ccf32f00e298edc8afc4eb4e375440718db3fce034e95"
+    },
+    {
+        "timestamp": "2026-08-01 10:13:49",
+        "event_type": "NEW",
+        "message": "NEW FILE: ovishek.txt",
+        "previous_hash": "0b42bf7c72fda965a43ccf32f00e298edc8afc4eb4e375440718db3fce034e95",
+        "event_hash": "c34707ccd62d68e4d189a472c6c0716a4473d8f9bd648566f78c97b9e91d67c3"
+    },
+    {
+        "timestamp": "2026-08-01 10:14:57",
+        "event_type": "DELETED",
+        "message": "DELETED: ovishek.txt",
+        "previous_hash": "c34707ccd62d68e4d189a472c6c0716a4473d8f9bd648566f78c97b9e91d67c3",
+        "event_hash": "af7c70c7a5a3b695066b5d6e898b2e3840af89103a3a6c8dc4ae93355983f857"
+    },
+    {
+        "timestamp": "2026-08-01 10:15:37",
+        "event_type": "NEW",
+        "message": "NEW FILE: adil.txt.txt",
+        "previous_hash": "af7c70c7a5a3b695066b5d6e898b2e3840af89103a3a6c8dc4ae93355983f857",
+        "event_hash": "018d38fefd529bdec3da6b37b27e2105dd5b444adf9277e638bec4d30096daa5"
+    },
+    {
+        "timestamp": "2026-08-01 10:15:37",
+        "event_type": "NEW",
+        "message": "NEW FILE: adil.txt.txt",
+        "previous_hash": "018d38fefd529bdec3da6b37b27e2105dd5b444adf9277e638bec4d30096daa5",
+        "event_hash": "37be556ef1cddc9277ba793b3f05cb33a490a299a1f3a5cb4de1ec4a4fc38e91"
+    },
+    {
+        "timestamp": "2026-08-01 10:16:16",
+        "event_type": "DELETED",
+        "message": "DELETED: adil.txt.txt",
+        "previous_hash": "37be556ef1cddc9277ba793b3f05cb33a490a299a1f3a5cb4de1ec4a4fc38e91",
+        "event_hash": "aab706072ff8763e7d631bf61a9d6e386a58771c9ea01a2d9d8829bf8666b56a"
+    },
+    {
+        "timestamp": "2026-08-01 10:16:30",
+        "event_type": "MONITORING_STARTED",
+        "message": "Monitoring started",
+        "previous_hash": "aab706072ff8763e7d631bf61a9d6e386a58771c9ea01a2d9d8829bf8666b56a",
+        "event_hash": "13b0cdd6bc94ede50d49d27e6a98af41696e3092ef73147d44c194741ad89e51"
+    },
+    {
+        "timestamp": "2026-08-01 10:16:45",
+        "event_type": "MODIFIED",
+        "message": "MODIFIED: attack_test.txt",
+        "previous_hash": "13b0cdd6bc94ede50d49d27e6a98af41696e3092ef73147d44c194741ad89e51",
+        "event_hash": "1650c69c174d8a0294065696c1521e921c6cf045ee7fe3ae0866b28400cd5963"
+    },
+    {
+        "timestamp": "2026-08-01 14:09:54",
+        "event_type": "BASELINE_CREATED",
+        "message": "Baseline created",
+        "previous_hash": "1650c69c174d8a0294065696c1521e921c6cf045ee7fe3ae0866b28400cd5963",
+        "event_hash": "86114cb644fec0dac1ca6092893d04dba4585d63ae77e601f13d2a34028c6906"
+    },
+    {
+        "timestamp": "2026-08-01 14:10:18",
+        "event_type": "MODIFIED",
+        "message": "MODIFIED: attack_test.txt",
+        "previous_hash": "86114cb644fec0dac1ca6092893d04dba4585d63ae77e601f13d2a34028c6906",
+        "event_hash": "7d715a496ba7222d99b41939ce53912ceff703a209b1fd3c7bda03675d8b16c0"
+    },
+    {
+        "timestamp": "2026-08-01 14:10:25",
+        "event_type": "BASELINE_CREATED",
+        "message": "Baseline created",
+        "previous_hash": "7d715a496ba7222d99b41939ce53912ceff703a209b1fd3c7bda03675d8b16c0",
+        "event_hash": "8e7cbad3b0dd4cf9be49b84180318b170cb08d33f6931eb9922e63f8caf2d44a"
+    },
+    {
+        "timestamp": "2026-08-01 14:11:24",
+        "event_type": "NEW",
+        "message": "NEW FILE: osman.txt",
+        "previous_hash": "8e7cbad3b0dd4cf9be49b84180318b170cb08d33f6931eb9922e63f8caf2d44a",
+        "event_hash": "2ab9e3d8ea93fd6d8dbac190376a3243c8a8b92af4374421e1dab66c611313e7"
+    },
+    {
+        "timestamp": "2026-08-01 14:11:55",
+        "event_type": "BASELINE_CREATED",
+        "message": "Baseline created",
+        "previous_hash": "2ab9e3d8ea93fd6d8dbac190376a3243c8a8b92af4374421e1dab66c611313e7",
+        "event_hash": "a9183a260c1bcb658fa1a4ff53df651acd49e06aa387e2490b62a87308ae2345"
+    },
+    {
+        "timestamp": "2026-08-01 14:12:26",
+        "event_type": "DELETED",
+        "message": "DELETED: osman.txt",
+        "previous_hash": "a9183a260c1bcb658fa1a4ff53df651acd49e06aa387e2490b62a87308ae2345",
+        "event_hash": "548cd10d31e24fdf9b0626d907fe4b8d9904c76368ef108e125eccff851998b6"
+    },
+    {
+        "timestamp": "2026-08-01 14:12:26",
+        "event_type": "DELETED",
+        "message": "DELETED: osman.txt",
+        "previous_hash": "548cd10d31e24fdf9b0626d907fe4b8d9904c76368ef108e125eccff851998b6",
+        "event_hash": "4584442e7543a02f251786697251bbb81f1d425c26fbca7eea89814a54f4b5cd"
+    },
+    {
+        "timestamp": "2026-08-01 14:12:55",
+        "event_type": "BASELINE_CREATED",
+        "message": "Baseline created",
+        "previous_hash": "4584442e7543a02f251786697251bbb81f1d425c26fbca7eea89814a54f4b5cd",
+        "event_hash": "d16edd2f0e5ca6bc544478ff415665b81a364b5155b4f4d863397d3dd953bf6a"
+    },
+    {
+        "timestamp": "2026-08-01 14:13:17",
+        "event_type": "NEW",
+        "message": "NEW FILE: adil.txt.txt",
+        "previous_hash": "d16edd2f0e5ca6bc544478ff415665b81a364b5155b4f4d863397d3dd953bf6a",
+        "event_hash": "b53d6ca596c8793a35a170bd6fc7eb804523e603ffb5b64ec980acc706d62cbc"
+    },
+    {
+        "timestamp": "2026-08-01 14:13:17",
+        "event_type": "NEW",
+        "message": "NEW FILE: adil.txt.txt",
+        "previous_hash": "b53d6ca596c8793a35a170bd6fc7eb804523e603ffb5b64ec980acc706d62cbc",
+        "event_hash": "139a8a5cf61ea530dff560db30a49f9032331993d688efc63f91f11bd7986747"
+    },
+    {
+        "timestamp": "2026-08-01 14:13:42",
+        "event_type": "BASELINE_CREATED",
+        "message": "Baseline created",
+        "previous_hash": "139a8a5cf61ea530dff560db30a49f9032331993d688efc63f91f11bd7986747",
+        "event_hash": "219c2c75c4040bd28bd41ab1bc3d8d40edc68cc30e3111dab631445b9a7d7411"
+    },
+    {
+        "timestamp": "2026-08-01 14:15:42",
+        "event_type": "MODIFIED",
+        "message": "MODIFIED: adil.txt.txt",
+        "previous_hash": "219c2c75c4040bd28bd41ab1bc3d8d40edc68cc30e3111dab631445b9a7d7411",
+        "event_hash": "ae1d4771153c7c9a72ea9abe68b0348846ee45bdea0dd4bcc272cea675415148"
+    },
+    {
+        "timestamp": "2026-08-01 14:15:54",
+        "event_type": "BASELINE_CREATED",
+        "message": "Baseline created",
+        "previous_hash": "ae1d4771153c7c9a72ea9abe68b0348846ee45bdea0dd4bcc272cea675415148",
+        "event_hash": "468c032731f17d31b1bf75e74bfef9ae9f07ec21ee05c51c7347ea6fffc31045"
+    },
+    {
+        "timestamp": "2026-08-01 14:23:08",
+        "event_type": "NEW",
+        "message": "NEW FILE: ooo.txt",
+        "previous_hash": "468c032731f17d31b1bf75e74bfef9ae9f07ec21ee05c51c7347ea6fffc31045",
+        "event_hash": "7c853b3f00ad6e7aa1d58d99196243b6b89d9a579a3996c17539827c0d796cb4"
+    },
+    {
+        "timestamp": "2026-08-01 14:24:58",
+        "event_type": "NEW",
+        "message": "NEW FILE: avi.txt.txt",
+        "previous_hash": "7c853b3f00ad6e7aa1d58d99196243b6b89d9a579a3996c17539827c0d796cb4",
+        "event_hash": "588135286fb9c3d91fe976e48d5f6ddd76b4e3ecacca0633bf2778a343782184"
+    },
+    {
+        "timestamp": "2026-08-01 14:24:58",
+        "event_type": "NEW",
+        "message": "NEW FILE: avi.txt.txt",
+        "previous_hash": "588135286fb9c3d91fe976e48d5f6ddd76b4e3ecacca0633bf2778a343782184",
+        "event_hash": "e824fbd0365e53697a63c369a41b5af629044e2e5ebff557431993f59587ea0b"
+    },
+    {
+        "timestamp": "2026-08-01 14:25:50",
+        "event_type": "BASELINE_CREATED",
+        "message": "Baseline created",
+        "previous_hash": "e824fbd0365e53697a63c369a41b5af629044e2e5ebff557431993f59587ea0b",
+        "event_hash": "087a877d307c55394257fd8a3e7d9cbe2f9ce4e57d923cc877a00d8d893513d4"
+    },
+    {
+        "timestamp": "2026-08-01 14:26:31",
+        "event_type": "MONITORING_STARTED",
+        "message": "Monitoring started",
+        "previous_hash": "087a877d307c55394257fd8a3e7d9cbe2f9ce4e57d923cc877a00d8d893513d4",
+        "event_hash": "c919d89cbfe5dd5cee75cbf07e765e613cc2c4eb85af04439434f9caadfe3bd6"
+    },
+    {
+        "timestamp": "2026-08-01 14:26:38",
+        "event_type": "DELETED",
+        "message": "DELETED: ooo.txt",
+        "previous_hash": "c919d89cbfe5dd5cee75cbf07e765e613cc2c4eb85af04439434f9caadfe3bd6",
+        "event_hash": "fd5064e70f56e794d2f5a0290c69d56441ab91fe28676e59b5d6f5c81caca4e7"
+    },
+    {
+        "timestamp": "2026-08-01 14:26:38",
+        "event_type": "DELETED",
+        "message": "DELETED: ooo.txt",
+        "previous_hash": "fd5064e70f56e794d2f5a0290c69d56441ab91fe28676e59b5d6f5c81caca4e7",
+        "event_hash": "215533366a6f70bb83f18e6b73eedfc235654bf5edbc3561856e2eca5333a441"
+    },
+    {
+        "timestamp": "2026-08-01 14:26:47",
+        "event_type": "DELETED",
+        "message": "DELETED: avi.txt.txt",
+        "previous_hash": "215533366a6f70bb83f18e6b73eedfc235654bf5edbc3561856e2eca5333a441",
+        "event_hash": "acc2f2a903b5789e35ed4ac218bada2fcbe5f19afff42abe07c471921d775430"
+    },
+    {
+        "timestamp": "2026-08-01 14:26:47",
+        "event_type": "DELETED",
+        "message": "DELETED: avi.txt.txt",
+        "previous_hash": "acc2f2a903b5789e35ed4ac218bada2fcbe5f19afff42abe07c471921d775430",
+        "event_hash": "22c1eb36a29455048b8f4341411d24e0e7a252bdeec8fea4d86f00def9d6fe11"
+    },
+    {
+        "timestamp": "2026-08-01 14:27:18",
+        "event_type": "MONITORING_STOPPED",
+        "message": "Monitoring stopped",
+        "previous_hash": "22c1eb36a29455048b8f4341411d24e0e7a252bdeec8fea4d86f00def9d6fe11",
+        "event_hash": "604b9cb48603afe44d6133fb735ff9ff5b86fe3a6fedd5760e15f1c310cd7743"
+    },
+    {
+        "timestamp": "2026-08-01 14:27:19",
+        "event_type": "BASELINE_CREATED",
+        "message": "Baseline created",
+        "previous_hash": "604b9cb48603afe44d6133fb735ff9ff5b86fe3a6fedd5760e15f1c310cd7743",
+        "event_hash": "0298f7ec0e2ee49fc4a7854b560c301e5c38ac1821ebc365c83fd9d82ba7d3c7"
+    },
+    {
+        "timestamp": "2026-08-01 14:37:31",
+        "event_type": "MODIFIED",
+        "message": "MODIFIED: attack_test.txt",
+        "previous_hash": "0298f7ec0e2ee49fc4a7854b560c301e5c38ac1821ebc365c83fd9d82ba7d3c7",
+        "event_hash": "93fc06431ff4881dbe63486b9e190b1f4d7e4aef111a63df2437dcb5579a3bcd"
+    },
+    {
+        "timestamp": "2026-08-01 14:38:36",
+        "event_type": "MONITORING_STARTED",
+        "message": "Monitoring started",
+        "previous_hash": "93fc06431ff4881dbe63486b9e190b1f4d7e4aef111a63df2437dcb5579a3bcd",
+        "event_hash": "c5c1ff7b0ae7ede82f6deccbdafa0b1319ce77308741c5d144a30a3e033e85a9"
+    },
+    {
+        "timestamp": "2026-08-01 14:38:49",
+        "event_type": "MODIFIED",
+        "message": "MODIFIED: attack_test.txt",
+        "previous_hash": "c5c1ff7b0ae7ede82f6deccbdafa0b1319ce77308741c5d144a30a3e033e85a9",
+        "event_hash": "a14f253161ed78f6991a475df10c7ec7c7035a6737d4e9e0892562592f6fd001"
+    },
+    {
+        "timestamp": "2026-08-01 14:40:30",
+        "event_type": "NEW",
+        "message": "NEW FILE: os",
+        "previous_hash": "a14f253161ed78f6991a475df10c7ec7c7035a6737d4e9e0892562592f6fd001",
+        "event_hash": "ec9ed0ef1771d1f27e2ab763cd2e3dca001a3837c43efa88f14a73dbc513b463"
+    },
+    {
+        "timestamp": "2026-08-01 14:41:08",
+        "event_type": "BASELINE_CREATED",
+        "message": "Baseline created",
+        "previous_hash": "ec9ed0ef1771d1f27e2ab763cd2e3dca001a3837c43efa88f14a73dbc513b463",
+        "event_hash": "757766807ca53b2ecc2e68febdf53a05c59518a57c04f72bc8df4237321644ae"
+    },
+    {
+        "timestamp": "2026-08-01 14:41:51",
+        "event_type": "DELETED",
+        "message": "DELETED: os",
+        "previous_hash": "757766807ca53b2ecc2e68febdf53a05c59518a57c04f72bc8df4237321644ae",
+        "event_hash": "1d01d8f3c73abbe00a53b2cdfebb7007189904cb7a5f210e009d30806ac5a58c"
+    },
+    {
+        "timestamp": "2026-08-01 14:42:05",
+        "event_type": "BASELINE_CREATED",
+        "message": "Baseline created",
+        "previous_hash": "1d01d8f3c73abbe00a53b2cdfebb7007189904cb7a5f210e009d30806ac5a58c",
+        "event_hash": "1ece7e0249dbbb8853e5373405437671b16d7a6d00b47ec6c155f2dcb7800e5d"
+    },
+    {
+        "timestamp": "2026-08-01 14:42:29",
+        "event_type": "NEW",
+        "message": "NEW FILE: oo.txt",
+        "previous_hash": "1ece7e0249dbbb8853e5373405437671b16d7a6d00b47ec6c155f2dcb7800e5d",
+        "event_hash": "c711743fcbbca5067de305d108c0d6ea8b101335b8525cfdd3a4e6b3c3b8ab44"
+    },
+    {
+        "timestamp": "2026-08-01 15:25:58",
+        "event_type": "MODIFIED",
+        "message": "MODIFIED: attack_test.txt",
+        "previous_hash": "c711743fcbbca5067de305d108c0d6ea8b101335b8525cfdd3a4e6b3c3b8ab44",
+        "event_hash": "1efdf0f66739537cc4402e71f25e2e7e2b90f8fb5971a38cac33cbb4824b7911"
+    },
+    {
+        "timestamp": "2026-08-01 15:27:59",
+        "event_type": "MODIFIED",
+        "message": "MODIFIED: attack_test.txt",
+        "previous_hash": "1efdf0f66739537cc4402e71f25e2e7e2b90f8fb5971a38cac33cbb4824b7911",
+        "event_hash": "b4f1d10243f3918e7ac8e66b3092e34d94f94574f6df7106bf963cacf836cae7"
+    },
+    {
+        "timestamp": "2026-08-01 15:27:59",
+        "event_type": "NEW",
+        "message": "NEW FILE: towhid",
+        "previous_hash": "b4f1d10243f3918e7ac8e66b3092e34d94f94574f6df7106bf963cacf836cae7",
+        "event_hash": "6eb1ba9f165f049422e7add8b75dfbbf2a79834b5a0bdd3dd6c18ba5e7e4237f"
+    },
+    {
+        "timestamp": "2026-08-01 15:28:16",
+        "event_type": "BASELINE_CREATED",
+        "message": "Baseline created",
+        "previous_hash": "6eb1ba9f165f049422e7add8b75dfbbf2a79834b5a0bdd3dd6c18ba5e7e4237f",
+        "event_hash": "e1eb412242989e2c50c59fa2f0abd4ec73e0365f412012a6ba5a90ddc47e4e19"
+    },
+    {
+        "timestamp": "2026-08-02 01:06:58",
+        "event_type": "NEW",
+        "message": "NEW FILE: adil.txt.txt",
+        "previous_hash": "e1eb412242989e2c50c59fa2f0abd4ec73e0365f412012a6ba5a90ddc47e4e19",
+        "event_hash": "6a53cdca7b15c8ba1abe4bf4c7dc792168a662fdee0d89ea020a069087613d0f"
+    },
+    {
+        "timestamp": "2026-08-02 01:06:58",
+        "event_type": "NEW",
+        "message": "NEW FILE: adil.txt.txt",
+        "previous_hash": "6a53cdca7b15c8ba1abe4bf4c7dc792168a662fdee0d89ea020a069087613d0f",
+        "event_hash": "e5399cd79476dd582ccf40c9a971cacad09eed6368f2b3001ed6f0559a797668"
+    },
+    {
+        "timestamp": "2026-08-02 01:07:11",
+        "event_type": "DELETED",
+        "message": "DELETED: adil.txt.txt",
+        "previous_hash": "e5399cd79476dd582ccf40c9a971cacad09eed6368f2b3001ed6f0559a797668",
+        "event_hash": "fda4d3ede484ae16b5e7aada8c62e77b68324f22371ec7592d74d3315703c898"
+    }
+]
