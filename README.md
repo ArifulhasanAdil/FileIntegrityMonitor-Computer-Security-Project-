@@ -148,3 +148,16 @@ FileIntegrityMonitor/
 ├── event_log.json
 ├── .gitignore
 └── README.md
+## 📸 Project Interface
+
+### File Integrity Monitoring Dashboard
+
+![FIM Dashboard](dashboard.png)
+
+### System Architecture
+
+![System Architecture](Architecture.jpeg)
+
+### Monitoring Process
+
+![Monitoring Process](monitorprocess.jpeg)
